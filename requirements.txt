@@ -1,0 +1,9 @@
+torch>=2.0
+numpy
+tiktoken
+datasets
+tqdm
+requests
+transformers
+wandb
+matplotlib  # Play.ipynb only

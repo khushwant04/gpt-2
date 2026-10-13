@@ -1,3 +1,13 @@
 wandb
 edu_fineweb100M
 __pycache__
+
+# Python / tooling
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Training checkpoints
+log/*.pt
